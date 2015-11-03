@@ -6,3 +6,5 @@ This repo contains things not interesting or complete enough to have their own.
 
   * linux-asm-demos -- How to make system calls on Linux {x86_64}.
 
+  * linux-c-demos --
+
